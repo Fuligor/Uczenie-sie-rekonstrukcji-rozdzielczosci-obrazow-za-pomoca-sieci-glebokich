@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/miReject"
+        android:icon="@drawable/clear"
+        app:showAsAction="ifRoom"
+        android:title="@string/reject">
+    </item>
+    <item
+        android:id="@+id/miSave"
+        android:icon="@drawable/ok"
+        android:title="@string/save"
+        app:showAsAction="ifRoom"></item>
+</menu>

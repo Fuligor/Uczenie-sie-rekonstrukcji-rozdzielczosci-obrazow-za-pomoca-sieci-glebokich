@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SuperresolutionApp</string>
+    <string name="photoButton">Zrób zdjęcie</string>
+    <string name="galleryButton">Wybierz zdjęcie</string>
+    <string name="cameraOpenError">Nie udało otworzyć się aplikacji aparatu</string>
+    <string name="galleryOpenError">Nie udało otworzyć się aplikacji galerii</string>
+    <string name="save">Zapisz</string>
+    <string name="reject">Odrzuć</string>
+    <string name="ip_serwera">IP serwera</string>
+    <string name="stosowany_model">Stosowany model</string>
+    <string name="adres_ip_serwera">Adres IP serwera</string>
+    <string name="_192_168_0_106">192.168.0.106</string>
+    <string name="_83_8_78_110">83.8.78.110</string>
+</resources>
